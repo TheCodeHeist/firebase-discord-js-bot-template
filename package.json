@@ -1,0 +1,24 @@
+{
+  "name": "firebase-discord-js-bot-template",
+  "version": "1.0.0",
+  "description": "A simple template to get started with Firebase in Discord JS Bot",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheCodeHeist/firebase-discord-js-bot-template.git"
+  },
+  "author": "TheCodeHeist",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheCodeHeist/firebase-discord-js-bot-template/issues"
+  },
+  "homepage": "https://github.com/TheCodeHeist/firebase-discord-js-bot-template#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "firebase": "^8.2.6"
+  }
+}
